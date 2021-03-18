@@ -6,7 +6,7 @@ import re
 
 
 # Variables for your OIDC app and org
-url = "https://tobias.okta.com"
+url = ""
 client_id = ""
 client_secret = ""
 
